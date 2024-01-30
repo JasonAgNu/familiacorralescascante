@@ -7,7 +7,7 @@ const images = [
   "./videos/5.gif",
   "./videos/6.gif",
   "./videos/8.gif",
-  "./videos/b.gif",
+  "./videos/d.gif",
   "./videos/10.gif",
 ];
 
